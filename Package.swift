@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MintExample",
     products: [
-      .executable(name: "MintExample", targets: ["MintExample"]),
+      .executable(name: "mint-example", targets: ["MintExample"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.

@@ -1,1 +1,1 @@
-print("Hello, mint🌱")
+print("Hello, mint 0.2 🌱")
